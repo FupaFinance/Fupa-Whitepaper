@@ -33,6 +33,7 @@ Please read the full disclaimers contained within the white paper.
 
 ## Links
 
+- Website: [www.fupa.finance](https://www.fupa.finance)
 - X (Twitter): [@FupaFinance](https://x.com/FupaFinance)
 
 ## License
